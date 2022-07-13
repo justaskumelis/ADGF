@@ -1,4 +1,2 @@
-||g3.dcdn.lt^
+! Justas's custom ad block list
 ||dcdn.lt^
-https://g3.dcdn.lt
-!
