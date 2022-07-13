@@ -1,6 +1,9 @@
 ! Justas's custom ad block list
 ||dcdn.lt/images/bbb^
-.dcdn.lt/images/bbb/
-dcdn.lt/images/bbb/
-g3.dcdn.lt/images/bbb/
+||dcdn.lt/images/bbb/
+||dcdn.lt/images/bbb
+||g3.dcdn.lt/images/bbb/^
+||g3.dcdn.lt/images/bbb^
+||g3.dcdn.lt/images/bbb
+||g3.dcdn.lt/images/bbb/
 !https://g3.dcdn.lt/images/bbb/samsung/t4.jpg
