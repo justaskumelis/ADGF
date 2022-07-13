@@ -1,3 +1,4 @@
 ||g3.dcdn.lt^
+||dcdn.lt^
 https://g3.dcdn.lt
 !
